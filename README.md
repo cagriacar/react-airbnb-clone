@@ -1,9 +1,15 @@
 ## Airbnb Clone
+npm kurulum
 
-React,Hooks,Router
-Material UI
-Responsive Design
-Grow/shrink Animation
-Css game is strong
-datepicker (npm i react-date-range)npm i date-fns
-Firebase Hosting
+npm install
+npm start
+
+## İçerik
+- React,Hooks,Router
+- Material UI
+- Responsive Design
+- datepicker (npm i react-date-range,npm i date-fns ) 
+- Başlangıç seviyesi
+
+Detaylı bilgi için bana yazın...
+
